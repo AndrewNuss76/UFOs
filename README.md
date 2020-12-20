@@ -6,7 +6,7 @@ The purpose of this module was to develop skills with javascript, css, and html.
 ## Results
 Based on the UFO sighting data, there are tons of opportunities to explore for Dana or supporters of UFO sightings. The challenge though based on the data/tables we created, is that it's hard to look through all of the options. By creating the filter pane, we can allow the user the option to filter for various parameters such as Year, State, etc. For example, the filter featured below will return results located in Bonita CA on 1/10/2010 that pertain to 'light' findings.
 
-![Filter Pane](static/images/filter pane.png)
+![filter](static/images/filter_pane.png)
 
 
 ## Summary
